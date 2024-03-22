@@ -1,8 +1,8 @@
 public class GameManager 
 {
 	//Machina
-	public Start()
+	private Start()
 	{
-		Debug.Log("Develop");
+		Debug.Log("DailyChallenge");
 	}
 }
