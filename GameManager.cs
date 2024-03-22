@@ -4,5 +4,6 @@ public class GameManager
 	private Start()
 	{
 		Debug.Log("DailyChallenge");
+		Debug.Log("Sending to QA");
 	}
 }
